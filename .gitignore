@@ -1,0 +1,4 @@
+tools/hexdump
+bin/
+obj/
+.vs/
